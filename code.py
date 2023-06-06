@@ -1,6 +1,5 @@
 a=10
 b=20
-c=30
-sum=a+b+c
+c=a+b
 print(c)
 
